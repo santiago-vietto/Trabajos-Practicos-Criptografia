@@ -2,6 +2,7 @@
 
 #### Alumno: Ing. Vietto Herrera Santiago
 #### Docente: Ing. Montes Miguel
+#### Carrera: Maestría en Ciberdefensa
 #### Institucion: Centro Regional Universitario Córdoba IUA
 #### Año: 2026
 
