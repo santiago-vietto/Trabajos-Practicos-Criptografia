@@ -27,5 +27,5 @@
 3. Instalar dependencias necesarias:
 
 ```bash
-    pip install requests
+    pip install -r requirements.txt
 ```

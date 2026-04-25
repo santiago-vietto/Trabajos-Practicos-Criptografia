@@ -12,14 +12,10 @@ server = "https://cripto.iua.edu.ar"
 url_challenge = f'{server}/md5crypt/{email}/challenge'
 
 response = requests.get(url_challenge)
-
-if response.status_code != 200:
-    print("Error:", response.status_code)
-    print(response.text)
-    exit()
     
 challenge = response.content
 
+print("\nR:")
 print(challenge.decode('ascii'))
 
 ciphertext = base64.b64decode(challenge)
