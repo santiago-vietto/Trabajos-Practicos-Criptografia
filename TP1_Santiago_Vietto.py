@@ -15,7 +15,7 @@ response = requests.get(url_challenge)
     
 challenge = response.content
 
-print("\nR:")
+print("\nRE:")
 print(challenge.decode('ascii'))
 
 ciphertext = base64.b64decode(challenge)
