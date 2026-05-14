@@ -9,6 +9,7 @@
 ## Contenido
 
 * Trabajo Práctico 1: MD5crypt.
+* Trabajo Práctico 2: Generador de números aleatorios de Java.
 
 ## Configuración de Entorno Virtual Python
 
