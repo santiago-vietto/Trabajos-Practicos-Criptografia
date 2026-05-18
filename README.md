@@ -8,9 +8,44 @@
 
 ## Contenido
 
+#### Unidad 1: Introducción
+
 * Trabajo Práctico 1: MD5crypt.
+
+#### Unidad 2: Aleatoriedad y entropía
+
 * Trabajo Práctico 2: Generador de números aleatorios de Java.
 * Trabajo Práctico 3: Clave generada a partir de la fecha y hora.
+
+#### Unidad 3: Cifradores de flujo
+
+* Trabajo Práctico 4: Secuencia cifrante repetida. 
+* Trabajo Práctico 5: Cambio de bits en un cifrado de flujo. (Sin informe)
+
+#### Unidad 4: Cifradores de bloques
+
+* Trabajo Práctico 6: Falsificación en modo ECB. 
+* Trabajo Práctico 7: Cambio de bits en modo CBC.
+* Trabajo Práctico 8: Descifrado en modo ECB.
+* Trabajo Práctico 9: Padding Oracle.
+
+#### Unidad 5: Funciones de Hash
+
+* Trabajo Práctico 10: Segunda preimagen de una función de hash. 
+* Trabajo Práctico 11: Colisiones en una función de hash.
+* Trabajo Práctico 12: Prueba de trabajo en una red blockchain.
+
+#### Unidad 6: Autenticación
+
+* Trabajo Práctico 13: Ataque de extensión de longitud.
+* Trabajo Práctico 14: Falsificación en CBC-MAC.
+
+#### Unidad 7: Criptografía asimétrica
+
+* Trabajo Práctico 15: Ataque de broadcast sobre RSA.
+* Trabajo Práctico 16: RSA con clave pequeña.
+* Trabajo Práctico 17: DSA con reutilización de k.
+
 
 ## Configuración de Entorno Virtual Python
 

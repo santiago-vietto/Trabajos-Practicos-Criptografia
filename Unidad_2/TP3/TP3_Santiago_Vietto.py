@@ -148,7 +148,7 @@ message = plaintext
 
 #####################################################################################################
 
-# Paso : Envio de la respuesta al servidor.
+# Paso 5: Envio de la respuesta al servidor.
 
 response_answer = requests.post(
     f"{server}/timerand/{email}/answer",
