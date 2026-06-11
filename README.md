@@ -25,9 +25,9 @@
 #### Unidad 4: Cifradores de bloques
 
 * Trabajo Práctico 6: Falsificación en modo ECB. 
-* Trabajo Práctico 7: Cambio de bits en modo CBC.
-* Trabajo Práctico 8: Descifrado en modo ECB.
-* Trabajo Práctico 9: Padding Oracle.
+* Trabajo Práctico 7: Cambio de bits en modo CBC. (Sin informe)
+* Trabajo Práctico 8: Descifrado en modo ECB. (Sin informe)
+* Trabajo Práctico 9: Padding Oracle. (Sin informe)
 
 #### Unidad 5: Funciones de Hash
 

@@ -1,2 +1,4 @@
 requests
 pycryptodome
+sympy
+gmpy2
